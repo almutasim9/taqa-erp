@@ -1,8 +1,9 @@
 import type { Metadata } from 'next';
 import './globals.css';
+import './guide.css';
 
 export const metadata: Metadata = {
-  title: 'شمس ERP | الإدارة المالية',
+  title: 'ERP-Taqa | منظومة إدارة الطاقة',
   description: 'نظام مالي ومبيعات لشركات الطاقة الشمسية',
 };
 
