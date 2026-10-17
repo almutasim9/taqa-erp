@@ -1,4 +1,4 @@
-@import 'tailwindcss';
+@import 'tailwindcss/index.css';
 @import 'tw-animate-css';
 @import 'shadcn/tailwind.css';
 .module-page .data-card td:nth-child(2){direction:ltr;unicode-bidi:plaintext;text-align:right}.customer-details dl div:nth-child(-n+2) dd{direction:ltr;unicode-bidi:plaintext;text-align:right}
